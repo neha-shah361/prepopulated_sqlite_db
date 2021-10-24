@@ -28,6 +28,5 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/test.db
     - assets/employee.db
 
